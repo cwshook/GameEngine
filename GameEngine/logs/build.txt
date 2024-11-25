@@ -1,0 +1,3 @@
+[ 11%] Copying headers (*.hpp) to include/ directory
+[ 11%] Built target CopyHeaders
+[ 22%] Building CXX object CMakeFiles/GameEngineLib.dir/src/quad.cpp.o
